@@ -1,0 +1,1 @@
+netsh advfirewall firewall set rule name="OMEN Gaming Hub" new action=block
